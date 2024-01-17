@@ -1,2 +1,2 @@
 # CompBio
-Repository of Computational Biolgoy Sideprojects
+Repository of Computational Biology Side projects
