@@ -14,4 +14,4 @@ Jordon Inkol, Ontario Canada
 ## Projects completed in Python
 
 ## Projects completed in R
-### [Gasdermin E Expression in Human Tumors](CompBio/R_projects/Gasdermin E expression in human tumors/)
+### [Gasdermin E Expression in Human Tumors](CompBio/R_projects/Gasdermin_E_Expression_in_Human_Tumors/README.md)
