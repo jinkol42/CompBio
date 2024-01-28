@@ -9,7 +9,7 @@ I am constantly learning and always looking to learn a new coding language and i
 Jordon Inkol, Ontario Canada
 - [Email](mailto:jinkol@uoguelph.com?subject=[GitHub]%20Source%20Han%20Sans)
 - [LinkedIn](https://www.linkedin.com/in/jordon-inkol-145932257)
-- [Kaggle]
+- [Kaggle](https://www.kaggle.com/jordoninkol)
 
 ## Projects completed in Python
 
