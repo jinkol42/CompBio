@@ -2,6 +2,9 @@
 .Rhistory
 .Rapp.history
 
+# Hidden files
+.DS_store
+
 # Session Data files
 .RData
 .RDataTmp
