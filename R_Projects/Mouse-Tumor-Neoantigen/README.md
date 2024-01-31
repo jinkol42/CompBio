@@ -5,4 +5,4 @@ This dataset was used to quantify and identify expression of other neoantigens a
 
 Preprocessing was completed using BWA, Samtools, GATK, and Picard through interfacing with an HPC via bash.
 Downstream analysis and visualization was completed using EdgeR and ggplot2 in R. 
-This data is currently in a publication currently under review at Cancer Immunology Research (CIR-23-0639R)
+This data is currently in a publication under review at Cancer Immunology Research (CIR-23-0639R)
