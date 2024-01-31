@@ -15,5 +15,10 @@ Jordon Inkol, Ontario Canada
 
 ## Projects completed in R
 ### [Gasdermin E Expression in Human Tumors](R_Projects/Gasdermin_E_Expresion_in_Human_Tumors)
-### [Expression of Mouse Colon Adenocarcinoma Neoantigens]()
-### []()
+This is a small R project looking at copy number variation and RNA expression of Gasdermin E in human breast, ovarian and glioblastoma tumors.
+Expression of RNA transcripts was also stratified by grade and stage, where applicable, to identify any changes in expression that correlate with increased disease severity.
+
+All data is from The Cancer Genome Atlas
+
+### [Expression of Mouse Colon Adenocarcinoma Neoantigens](R_Projects/Mouse-Tumor-Neoantigen)
+### [Characterizing Senescent T cells in Anti-tumor Immunity](R_Projects/Senescence-in-T-cells)
