@@ -26,7 +26,7 @@ All data is from The Cancer Genome Atlas
 
 I preformed RNA-sequencing on MC-38 mouse colon adenocarcinoma cells with or without expression of neoantigen or model antigens (AdFL, Ad9mer, and gp33). This dataset was used to quantify and identify expression of other neoantigens and tumor associated antigens found within these cells.
 
-I preprocessed the raw data using BWA, Samtools, GATK, and Picard through interfacing with an HPC via bash. Downstream analysis and visualization was completed using EdgeR and ggplot2 in R. This data is currently in a publication under review at Cancer Immunology Research (CIR-23-0639R)
+I preprocessed the raw data using BWA, Samtools, GATK, and Picard through interfacing with an HPC(Graham Cluster:SHARCNet/Digital Research Alliance of Canada) via bash. Downstream analysis and visualization was completed using EdgeR and ggplot2 in R. This data is currently in a publication under review at Cancer Immunology Research (CIR-23-0639R)
 
 ### [Characterizing Senescent T cells in Anti-tumor Immunity](R_Projects/Characterizing-senescent-T-cells-in-anti-tumor-immunity)
 This project is looking at how T cells found within the B16F10 mouse melanoma model, a melanoma that posses high metastatic capacity, are characterized by a senescent signature. This genotype and phenotype is different from exhaustion and maybe a subset of interest for reversing T cell dysfunction.
