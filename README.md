@@ -26,4 +26,4 @@ RNA-sequencing data from MC-38 mouse colon adenocarcinoma cells with or without 
 
 Preprocessing was completed using BWA, Samtools, GATK, and Picard through interfacing with an HPC via bash. Downstream analysis and visualization was completed using EdgeR and ggplot2 in R. This data is currently in a publication under review at Cancer Immunology Research (CIR-23-0639R)
 
-### [Characterizing Senescent T cells in Anti-tumor Immunity](R_Projects/Senescence-in-T-cells)
+### [Characterizing Senescent T cells in Anti-tumor Immunity](R_Projects/Characterizing-senescent -T-cells-in-anti-tumor-immunity)
