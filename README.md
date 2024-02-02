@@ -13,6 +13,8 @@ Jordon Inkol, Ontario Canada
 
 ## Projects completed in Python
 
+### Coming Soon...
+
 ## Projects completed in R
 ### [Gasdermin E Expression in Human Tumors](R_Projects/Gasdermin_E_Expresion_in_Human_Tumors)
 This is a small R project looking at copy number variation and RNA expression of Gasdermin E in human breast, ovarian and glioblastoma tumors.
