@@ -13,7 +13,7 @@ Jordon Inkol, Ontario Canada
 
 ## Projects completed in Python
 
-### Analysis of Human Head and Neck Squamous Cell Carcinoma Immune cells
+### [Analysis of Human Head and Neck Squamous Cell Carcinoma Immune cells](Python_Projects/Zheng_NatCom_2020)
 
  This analysis was performed on data originally from [**Zheng et al.** published in Nature Communications in 2020](https://www.nature.com/articles/s41467-020-20019-0). In this study they examined the immune landscape of 7 patients with head and neck squamous cell carcinoma and compared to matched normal samples from each respective patient. 
 
