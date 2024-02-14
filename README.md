@@ -21,7 +21,7 @@ Jordon Inkol, Ontario Canada
 
   Unfortunately the h5ad files generated during this project were too large to upload, however I am more than happy to provide them upon request via email. 
 
-  ### TCGA Pan Cancer Immune Infiltration
+## [TCGA Pan Cancer Immune Infiltration](Python_Projects/TCGA_Immune_Infil)
 
 This project is analyzing TCGA Immune Infiltration data from TCGA and was originally proposed by Ming "Tommy" Tang. The link to the github repository is as follows:  https://github.com/immunitastx/coding_exercise_TCGA_infiltration.
 
