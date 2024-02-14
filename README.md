@@ -21,6 +21,10 @@ Jordon Inkol, Ontario Canada
 
   Unfortunately the h5ad files generated during this project were too large to upload, however I am more than happy to provide them upon request via email. 
 
+  ### This project is analyzing TCGA Immune Infiltration data from TCGA and was originally proposed by Ming "Tommy" Tang. The link to the github repository is as follows:  https://github.com/immunitastx/coding_exercise_TCGA_infiltration. 
+
+Libraries used to complete this project were: pandas, numpy, matplotlib, plotnine, and seaborn. 
+
 
 ## Projects completed in R
 ### [Gasdermin E Expression in Human Tumors](R_Projects/Gasdermin_E_Expresion_in_Human_Tumors)
